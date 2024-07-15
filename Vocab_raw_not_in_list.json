@@ -1,11 +1,120 @@
 [
     {
         "title": "có thể",
-        "category1": "Danh từ"
+        "category3": "Phụ từ"
     },
     {
-        "title": "có thể",
-        "category1": "Danh từ"
-    }
+        "title": "không thể",
+        "category1": "Phụ từ"
+    },
+    {
+        "title": "thậm chí",
+        "category1": "Phụ từ"
+    },
+    {
+        "title": "vô cùng",
+        "category1": "Phụ từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "chúng tôi",
+        "category1": "Đại từ"
+    },
+    {
+        "title": "tất cả",
+        "category1": "Đại từ"
+    },
+    {
+        "title": "chúng ta",
+        "category1": "Đại từ"
+    },
+    {
+        "title": "bao giờ",
+        "category1": "Đại từ"
+    },
+    {
+        "title": "người dân",
+        "category4": "Không có trong từ điển"
+    },
+    {
+        "title": "văn hoá",
+        "category4":"Không có trong từ điển"
+    },
+    {
+        "title": "đồng thời",
+        "category4":"Không có trong từ điển"
+    },
+    {
+        "title": "như vậy",
+        "category4":"Không có trong từ điển"
+    },
+    {
+        "title": "không chỉ",
+        "category4":"Không có trong từ điển"
+    },
+    {
+        "title": "ngày càng",
+        "category4": "Không có trong từ điển"
+    },
+    {
+        "title": "châu Âu",
+        "category4": "Không có trong từ điển"
+    },
+    {
+        "title": "cho phép",
+        "category4": "Không có trong từ điển"
+    },
+    {
+        "title": "kéo dài",
+        "category4":"Không có trong từ điển"
+    },
+    {
+        "title": "cảm thấy",
+        "category4":"Không có trong từ điển"
+    },
+    {
+        "title": "quy định",
+        "category5": "Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "khó khăn",
+        "category5": "Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "phát hiện",
+        "category5": "Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "đảm bảo",
+        "category5":"Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "thành công",
+        "category5":"Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "ổn định",
+        "category5": "Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "vừa qua",
+        "category5": "Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "hạn chế",
+        "category5": "Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "nhất là",
+        "category5": "Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "quy hoạch",
+        "category5":"Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "cho hay",
+        "category5":"Có nhưng mà chưa phân loại"
+    },
     
 ]

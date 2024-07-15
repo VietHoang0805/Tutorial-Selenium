@@ -1,0 +1,1263 @@
+[
+    {
+        "title": "có thể",
+        "category3": "Phụ từ"
+    },
+    {
+        "title": "thực hiện",
+        "category2": "Động từ"
+    },
+    {
+        "title": "tổ chức",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "sử dụng",
+        "category2": "Động từ"
+    },
+    {
+        "title": "thời gian",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "hoạt động",
+        "category2": "Động từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "phát triển",
+        "category2": "Động từ"
+    },
+    {
+        "title": "xây dựng",
+        "category2": "Động từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "đầu tư",
+        "category2": "Động từ"
+    },
+    {
+        "title": "khu vực",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "gia đình",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "dự án",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "một số",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "người dân",
+        "category4": "Không có trong từ điển"
+    },
+    {
+        "title": "đối với",
+        "category1": "Kết từ"
+    },
+    {
+        "title": "đầu tiên",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "tiếp tục",
+        "category2": "Động từ"
+    },
+    {
+        "title": "thông tin",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "thế giới",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "tham gia",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "quy định",
+        "category5": "Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "doanh nghiệp",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "thành phố",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "vấn đề",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "thị trường",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "kinh tế",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "đặc biệt",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "công tác",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "hệ thống",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "sản xuất",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "quốc gia",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "khả năng",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "quản lí",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "quyết định",
+        "category1": "Danh từ",
+        "category2": "Động từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "công ti",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "sản phẩm",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "xã hội",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "chương trình",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "cơ quan",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "không thể",
+        "category1": "Phụ từ"
+    },
+    {
+        "title": "chúng tôi",
+        "category1": "Đại từ"
+    },
+    {
+        "title": "yêu cầu",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "chia sẻ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "hỗ trợ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "địa phương",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "trở thành",
+        "category2": "Động từ"
+    },
+    {
+        "title": "đơn vị",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "xử lý",
+        "category2": "Động từ"
+    },
+    {
+        "title": "liên quan",
+        "category2": "Động từ"
+    },
+    {
+        "title": "làm việc",
+        "category2": "Động từ"
+    },
+    {
+        "title": "kinh doanh",
+        "category2": "Động từ"
+    },
+    {
+        "title": "khó khăn",
+        "category5": "Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "quan trọng",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "quốc tế",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "phát hiện",
+        "category5": "Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "lực lượng",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "cơ sở",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "kiểm tra",
+        "category2": "Động từ"
+    },
+    {
+        "title": "bảo vệ",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "triển khai",
+        "category2": "Động từ"
+    },
+    {
+        "title": "ảnh hưởng",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "hiệu quả",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "khẳng định",
+        "category2": "Động từ"
+    },
+    {
+        "title": "đánh giá",
+        "category2": "Động từ"
+    },
+    {
+        "title": "điều tra",
+        "category2": "Động từ"
+    },
+    {
+        "title": "du lịch",
+        "category2": "Động từ"
+    },
+    {
+        "title": "chất lượng",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "tất cả",
+        "category1": "Đại từ"
+    },
+    {
+        "title": "lãnh đạo",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "kết quả",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "xuất hiện",
+        "category2": "Động từ"
+    },
+    {
+        "title": "thời điểm",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "dịch vụ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "học sinh",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "an toàn",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "bắt đầu",
+        "category2": "Động từ"
+    },
+    {
+        "title": "đảm bảo",
+        "category5":"Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "nghiên cứu",
+        "category2": "Động từ"
+    },
+    {
+        "title": "thay đổi",
+        "category2": "Động từ"
+    },
+    {
+        "title": "tình trạng",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "cán bộ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "phụ nữ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "trường hợp",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "kế hoạch",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "điều kiện",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "quan hệ",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "hình ảnh",
+        "category1": "Danh từ"
+
+    },
+    {
+        "title": "môi trường",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "đối tượng",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "thành công",
+        "category5":"Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "cá nhân",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "hiện nay",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "cầu thủ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "vị trí",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "tấn công",
+        "category2": "Động từ"
+    },
+    {
+        "title": "giao thông",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "máy bay",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "khoa học",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "công nghệ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "giá trị",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "cung cấp",
+        "category2": "Động từ"
+    },
+    {
+        "title": "văn hoá",
+        "category4":"Không có trong từ điển"
+    },
+    {
+        "title": "quá trình",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "trách nhiệm",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "giải quyết",
+        "category2": "Động từ"
+    },
+    {
+        "title": "khách hàng",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "tiến hành",
+        "category2": "Động từ"
+    },
+    {
+        "title": "vi phạm",
+        "category2": "Động từ"
+    },
+    {
+        "title": "tập trung",
+        "category2": "Động từ"
+    },
+    {
+        "title": "cuộc sống",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "chính thức",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "thành viên",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "thiết kế",
+        "category2": "Động từ"
+    },
+    {
+        "title": "hoàn toàn",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "chính sách",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "chúng ta",
+        "category1": "Đại từ"
+    },
+    {
+        "title": "đồng thời",
+        "category4":"Không có trong từ điển"
+    },
+    {
+        "title": "quan tâm",
+        "category2": "Động từ"
+    },
+    {
+        "title": "phối hợp",
+        "category2": "Động từ"
+    },
+    {
+        "title": "nội dung",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "lao động",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "nước ngoài",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "lĩnh vực",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "cơ hội",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "địa bàn",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "hợp tác",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "nhiệm vụ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "công việc",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "công trình",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "phục vụ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "báo cáo",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "thể hiện",
+        "category2": "Động từ"
+    },
+    {
+        "title": "tài sản",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "khán giả",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "chuẩn bị",
+        "category2": "Động từ"
+    },
+    {
+        "title": "đề nghị",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "phù hợp",
+        "category2": "Động từ"
+    },
+    {
+        "title": "mục tiêu",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "đại diện",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "nổi tiếng",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "chỉ đạo",
+        "category2": "Động từ"
+    },
+    {
+        "title": "ý kiến",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "thực tế",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "công bố",
+        "category2": "Động từ"
+    },
+    {
+        "title": "chuyên gia",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "trực tiếp",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "pháp luật",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "hợp đồng",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "hành vi",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "trung tâm",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "bất ngờ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "sức khoẻ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "như vậy",
+        "category4":"Không có trong từ điển"
+    },
+    {
+        "title": "xác định",
+        "category2": "Động từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "điện thoại",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "nhân dân",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "giáo dục",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "trở lại",
+        "category2": "Động từ"
+    },
+    {
+        "title": "giai đoạn",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "ngân hàng",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "tăng cường",
+        "category2": "Động từ"
+    },
+    {
+        "title": "thương mại",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "thiết bị",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "an ninh",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "nhu cầu",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "thường xuyên",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "diện tích",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "diễn viên",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "lựa chọn",
+        "category2": "Động từ"
+    },
+    {
+        "title": "đào tạo",
+        "category2": "Động từ"
+
+    },
+    {
+        "title": "thậm chí",
+        "category1": "Phụ từ"
+    },
+    {
+        "title": "bao gồm",
+        "category2": "Động từ"
+    },
+    {
+        "title": "chính quyền",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "sinh viên",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "nhân viên",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "đàn ông",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "thông qua",
+        "category2": "Động từ"
+    },
+    {
+        "title": "thông báo",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "kiểm soát",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "một cách",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "hoàn thành",
+        "category2": "Động từ"
+    },
+    {
+        "title": "không chỉ",
+        "category4":"Không có trong từ điển"
+    },
+    {
+        "title": "thi đấu",
+        "category2": "Động từ"
+    },
+    {
+        "title": "tuyên bố",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "thí sinh",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "lịch sử",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "bóng đá",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "hành động",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "đô thị",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "sở hữu",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "thực phẩm",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "tài chính",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "thu hút",
+        "category2": "Động từ"
+    },
+    {
+        "title": "kĩ thuật",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "tình hình",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "vai trò",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "cuối cùng",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "cộng đồng",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "khai thác",
+        "category2": "Động từ"
+    },
+    {
+        "title": "phương tiện",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "biện pháp",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "đăng ký",
+        "category2": "Động từ"
+    },
+    {
+        "title": "giải pháp",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "liên tục",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "ổn định",
+        "category5": "Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "tích cực",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "ủng hộ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "cơ thể",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "nguyên nhân",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "áp dụng",
+        "category2": "Động từ"
+    },
+    {
+        "title": "ngày càng",
+        "category4": "Không có trong từ điển"
+    },
+    {
+        "title": "hồ sơ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "nạn nhân",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "chức năng",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "thực sự",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "truyền thống",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "bản thân",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "ô tô",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "bác sĩ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "nguy cơ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "vừa qua",
+        "category5": "Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "vụ việc",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "con người",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "châu Âu",
+        "category4": "Không có trong từ điển"
+    },
+    {
+        "title": "chú ý",
+        "category2": "Động từ"
+    },
+    {
+        "title": "bệnh viện",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "toàn bộ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "thành lập",
+        "category2": "Động từ"
+    },
+    {
+        "title": "ca sĩ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "nhanh chóng",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "nỗ lực",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "hạn chế",
+        "category5": "Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "sự kiện",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "chi phí",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "tên lửa",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "điều trị",
+        "category2": "Động từ"
+    },
+    {
+        "title": "ứng dụng",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "giao dịch",
+        "category2": "Động từ"
+    },
+    {
+        "title": "cho phép",
+        "category4": "Không có trong từ điển"
+    },
+    {
+        "title": "bao giờ",
+        "category1": "Đại từ"
+    },
+    {
+        "title": "cụ thể",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "đất nước",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "bệnh nhân",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "trả lời",
+        "category2": "Động từ"
+    },
+    {
+        "title": "số lượng",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "mở rộng",
+        "category2": "Động từ"
+    },
+    {
+        "title": "lí do",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "chiến thắng",
+        "category2": "Động từ"
+    },
+    {
+        "title": "nhà nước",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "quân sự",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "bổ sung",
+        "category2": "Động từ"
+    },
+    {
+        "title": "cảnh sát",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "tinh thần",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "nhất là",
+        "category5": "Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "chủ yếu",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "tai nạn",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "quân đội",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "vô cùng",
+        "category1": "Phụ từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "kéo dài",
+        "category4":"Không có trong từ điển"
+    },
+    {
+        "title": "chính trị",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "chăm sóc",
+        "category2": "Động từ"
+    },
+    {
+        "title": "vợ chồng",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "cảm thấy",
+        "category4":"Không có trong từ điển"
+    },
+    {
+        "title": "giới thiệu",
+        "category2": "Động từ"
+    },
+    {
+        "title": "kinh nghiệm",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "dự kiến",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "góp phần",
+        "category2": "Động từ"
+    },
+    {
+        "title": "hạnh phúc",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "trẻ em",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "công an",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "nghệ thuật",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "công nghiệp",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "dân tộc",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "hiện tại",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "đáp ứng",
+        "category2": "Động từ"
+    },
+    {
+        "title": "câu chuyện",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "tương lai",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "quy hoạch",
+        "category5":"Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "tìm kiếm",
+        "category2": "Động từ"
+    },
+    {
+        "title": "trở nên",
+        "category2": "Động từ"
+    },
+    {
+        "title": "tham dự",
+        "category2": "Động từ"
+    },
+    {
+        "title": "cho hay",
+        "category5":"Có nhưng mà chưa phân loại"
+    },
+    {
+        "title": "tỷ lệ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "tốc độ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "hiện đại",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "du khách",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "trang bị",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "xuất khẩu",
+        "category2": "Động từ"
+    },
+    {
+        "title": "văn bản",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "nhấn mạnh",
+        "category2": "Động từ"
+    },
+    {
+        "title": "tăng trưởng",
+        "category2": "Động từ"
+    },
+    {
+        "title": "nghiêm trọng",
+        "category3": "Tính từ"
+    },
+    {
+        "title": "báo chí",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "chính phủ",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "ra mắt",
+        "category2": "Động từ"
+    },
+    {
+        "title": "thủ tục",
+        "category1": "Danh từ"
+    },
+    {
+        "title": "giám sát",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "xem xét",
+        "category2": "Động từ"
+    },
+    {
+        "title": "thoả thuận",
+        "category1": "Danh từ",
+        "category2": "Động từ"
+    },
+    {
+        "title": "hình thức",
+        "category1": "Danh từ",
+        "category3": "Tính từ"
+    }
+]
