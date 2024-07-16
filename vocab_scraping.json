@@ -1,7 +1,7 @@
 [
     {
         "title": "có thể",
-        "category3": "Phụ từ"
+        "category6": "Phụ từ"
     },
     {
         "title": "thực hiện",
@@ -172,11 +172,11 @@
     },
     {
         "title": "không thể",
-        "category1": "Phụ từ"
+        "category6": "Phụ từ"
     },
     {
         "title": "chúng tôi",
-        "category1": "Đại từ"
+        "category7": "Đại từ"
     },
     {
         "title": "yêu cầu",
@@ -289,7 +289,7 @@
     },
     {
         "title": "tất cả",
-        "category1": "Đại từ"
+        "category7": "Đại từ"
     },
     {
         "title": "lãnh đạo",
@@ -487,7 +487,7 @@
     },
     {
         "title": "chúng ta",
-        "category1": "Đại từ"
+        "category7": "Đại từ"
     },
     {
         "title": "đồng thời",
@@ -722,7 +722,7 @@
     },
     {
         "title": "thậm chí",
-        "category1": "Phụ từ"
+        "category6": "Phụ từ"
     },
     {
         "title": "bao gồm",
@@ -1009,7 +1009,7 @@
     },
     {
         "title": "bao giờ",
-        "category1": "Đại từ"
+        "category7": "Đại từ"
     },
     {
         "title": "cụ thể",
@@ -1082,7 +1082,7 @@
     },
     {
         "title": "vô cùng",
-        "category1": "Phụ từ",
+        "category6": "Phụ từ",
         "category3": "Tính từ"
     },
     {
@@ -1262,189 +1262,136 @@
     },
     {
         "title": "sẵn sàng",
-        "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "mà còn",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category4":"Không có trong từ điển"
     },
     {
         "title": "có mặt",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "điều chỉnh",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "ấn tượng",
         "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "hành chính",
-        "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "kết hợp",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "thanh niên",
         "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "đại học",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "nguy hiểm",
         "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "mạnh mẽ",
-        "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "giáo viên",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "đề xuất",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "đơn giản",
-        "category1": "Danh từ",
         "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "y tế",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "cần thiết",
-        "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "cố gắng",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category5":"Có nhưng mà chưa phân loại"
     },
     {
         "title": "mong muốn",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "xe máy",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "nghệ sĩ",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "vũ khí",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "chắc chắn",
-        "category1": "Danh từ",
         "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "chiến lược",
         "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "đầy đủ",
-        "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "tình cảm",
         "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "bị cáo",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "vô địch",
         "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "bình thường",
-        "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "hướng dẫn",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "nhập khẩu",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "đại biểu",
         "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "bảo đảm",
@@ -1454,411 +1401,281 @@
     },
     {
         "title": "kết thúc",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "phiên bản",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "cổ phiếu",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "xuất sắc",
-        "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "thể thao",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "duy trì",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "phương án",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "thương hiệu",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "dễ dàng",
-        "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "tác phẩm",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "ma tuý",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "ngân sách",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "yếu tố",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "đối thủ",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "truyền thông",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "tử vong",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "chấp nhận",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "thu nhập",
         "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "khủng bố",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "mô hình",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "hàng hoá",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "theo dõi",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "minh hoạ",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "mục đích",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "danh sách",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "đóng góp",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "nhà máy",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "tiêu dùng",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "thực vật",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "nông nghiệp",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "trao đổi",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "hôm nay",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "cạnh tranh",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "sự nghiệp",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "nhân vật",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "ban hành",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "tác động",
         "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "tự nhiên",
         "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "mô tả",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "kết nối",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "thúc đẩy",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "thiệt hại",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category5":"Có nhưng mà chưa phân loại"
     },
     {
         "title": "bạn bè",
         "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "hấp dẫn",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "hàng đầu",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "dư luận",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "điện tử",
-        "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "ban đầu",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "cửa hàng",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "chế độ",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "hâm mộ",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "không gian",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "bất cứ",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category6": "Phụ từ"
     },
     {
         "title": "duy nhất",
-        "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "năng lực",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "thi công",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "màn hình",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "nhận định",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category5":"Có nhưng mà chưa phân loại"
     },
     {
         "title": "thị trấn",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "ung thư",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "sáng tạo",
-        "category1": "Danh từ",
         "category2": "Động từ",
         "category3": "Tính từ"
     },
     {
         "title": "chiến đấu",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "thế hệ",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "chủ động",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category5":"Có nhưng mà chưa phân loại"
     },
     {
         "title": "biên giới",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category1": "Danh từ"
     },
     {
         "title": "trước đây",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category4":"Không có trong từ điển"
     },
     {
         "title": "chi tiết",
         "category1": "Danh từ",
-        "category2": "Động từ",
         "category3": "Tính từ"
     },
-    {
+    { // Đến đây thì dừng
         "title": "khắc phục",
-        "category1": "Danh từ",
-        "category2": "Động từ",
-        "category3": "Tính từ"
+        "category2": "Động từ"
     },
     {
         "title": "việc làm",
