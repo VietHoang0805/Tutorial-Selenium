@@ -10,9 +10,8 @@
             "category3: 'Tính từ'",
             "category1: 'Danh từ'"
         ]
-    }
+    },
 
-]
 {
     "title": "công ty",
     "categories": [
@@ -36,4 +35,5 @@
     "categories": [
         "category1: 'Danh từ'"
     ]
-},
+}
+]
